@@ -4,5 +4,7 @@
 ## CS 422 - Intro to Machine Learning
 
 * Table of Contents
-** ToC
-***ToC
+* ToC
+  *ToC
+    *ToC
+  #ToC
