@@ -1,8 +1,4 @@
-## John Jarvis
-ODU
-CS 422 - Intro to Machine Learning
-
-
-This repository includes:
-  1. Term Project Source Code
-  2. Term Project Final Report
+##Term Project - Optimizing Plant Growth
+#John Jarvis
+#Old Dominion University
+#CS 422 - Intro to Machine Learning
