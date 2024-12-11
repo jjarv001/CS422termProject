@@ -1,4 +1,4 @@
-John Jarvis
+## John Jarvis
 ODU
 CS 422 - Intro to Machine Learning
 
