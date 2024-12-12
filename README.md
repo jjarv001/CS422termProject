@@ -31,6 +31,7 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 
 
 * Visualizing the Data
+
   This section provides a visualization of each individual variable's distribution in association with the sample set. If using the .csv provided, the initial dataset should be relatively evenly distributed for each categorical and quantitative variable.
 
 
