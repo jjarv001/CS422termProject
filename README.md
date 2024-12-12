@@ -15,7 +15,7 @@ The data utilized for the initial setup and analysis of this project can be foun
 
 ## Running the Program
 
-This program is structured as a Jupyter Notebook (.ipynb). As such there are multiple, many in fact, cells throughout this program. In order for the program to function correctly it should be supplied a .csv file with identical labels and variables to those found in the initial dataset listed above; the individual cells in this program must also be executed <ins> sequentially </ins> for proper function.
+This program is structured as a Jupyter Notebook (.ipynb). As such there are multiple, many in fact, cells throughout this program. In order for the program to function correctly it should be supplied a .csv file with identical labels and variables to those found in the initial dataset listed above; the individual cells in this program must also be executed <ins> sequentially</ins> for proper function.
 
 This program is designed to display (within the program) important features/metrics that play a role in plant success/failure, as well as provide statistics on variables and models tested.
 
