@@ -53,10 +53,10 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 
 * Normalize and Standardize the Data
 
-A few transformations that were deemed appropiate/acceptable (if not necessary) are performed on the quantitative data.
-  
-IMPORTANT!!! 
-Note: the transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
+  A few transformations that were deemed appropiate/acceptable (if not necessary) are performed on the quantitative data.
+    
+  IMPORTANT!!! 
+  Note: the transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
 
 * Applying Transformations
 
