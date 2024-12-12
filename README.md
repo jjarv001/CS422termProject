@@ -23,7 +23,21 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 
 
 ## Table of Contents
-* ToC
+
+* Setup and Initial Data View
+  In this section the user may wish to modify the input file (.csv) if they are utilizing a different dataset (reminder: the structure of the .csv must   have the same labels).
+  This section also checks for missing/duplicate values, informs the user of the data types, and provides a basic visualization of the data.
+
+
+* Visualizing the Data
+  This section provides a visualization of each individual variable's distribution in association with the sample set. If using the .csv provided, the initial dataset should be relatively evenly distributed for each categorical and quantitative variable.
+
+
+* Comparing Individual Variables and Success/Failure
+  This section...
+*
+
+* 
   * ToC
     * ToC
   # ToC
