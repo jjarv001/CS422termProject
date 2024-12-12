@@ -36,11 +36,42 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 
 
 * Comparing Individual Variables and Success/Failure
-  This section...
-*
 
-* 
-  * ToC
-    * ToC
-  # ToC
-   # ToC
+  This section compares individual input variables with their corresponding success/failure results (the target variable). It also displays interaction plots amongst variables.
+
+* Moving Towards a Learning Algorithm
+
+  This section is relatively brief. Here the target variable is established (Growth_Milestone) and label encoding is used for categorical features.
+
+* Statistical Analysis
+
+  In this section we utilize ANOVA and Chi square methods to get an idea for any statistically significant variables.
+
+* Preprocess the Data
+
+  In this section, categorical variables are encoded using one-hot encoding so that they can be utilized in the machine learning tools we'll be assessing.
+
+* Normalize and Standardize the Data
+
+A few transformations that were deemed appropiate/acceptable (if not necessary) are performed on the quantitative data.
+  
+IMPORTANT!!! 
+Note: the transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
+
+* Applying Transformations
+
+  This section merely enacts the choices made in the previous section
+
+* Models
+
+  The bulk of the desired (or undesired) results appear in this section.
+  In this section we do several important things:
+  * test different models (Random Forest, Logistic Regression, Naive Bayes, Decision Tree, Support Vector, Gradient Boosting, KNN)
+  * plot accuracies and highlight the top three
+  * perform cross-validation on the top three
+  * compare top three models before and after cross-validation
+
+* Summary
+  
+  Some potential takeaways (from the original dataset's results) are highlighted/discussed. 
+
