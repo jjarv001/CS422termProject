@@ -55,9 +55,7 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 
   A few transformations that were deemed appropiate/acceptable (if not necessary) are performed on the quantitative data.
     
-  <ins> IMPORTANT NOTE: <ins>
-  
-  The transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
+  <ins> IMPORTANT NOTE: </ins> The transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
 
 * <ins> Applying Transformations <ins>
 
