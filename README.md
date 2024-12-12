@@ -25,7 +25,8 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
 ## Table of Contents
 
 * Setup and Initial Data View
-In this section the user may wish to modify the input file (.csv) if they are utilizing a different dataset (reminder: the structure of the .csv must   have the same labels).
+
+  In this section the user may wish to modify the input file (.csv) if they are utilizing a different dataset (reminder: the structure of the .csv must   have the same labels).
   This section also checks for missing/duplicate values, informs the user of the data types, and provides a basic visualization of the data.
 
 
