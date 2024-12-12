@@ -30,39 +30,39 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
   This section also checks for missing/duplicate values, informs the user of the data types, and provides a basic visualization of the data.
 
 
-* Visualizing the Data
+* <ins> Visualizing the Data <ins>
 
   This section provides a visualization of each individual variable's distribution in association with the sample set. If using the .csv provided, the initial dataset should be relatively evenly distributed for each categorical and quantitative variable.
 
 
-* Comparing Individual Variables and Success/Failure
+* <ins> Comparing Individual Variables and Success/Failure <ins>
 
   This section compares individual input variables with their corresponding success/failure results (the target variable). It also displays interaction plots amongst variables.
 
-* Moving Towards a Learning Algorithm
+* <ins> Moving Towards a Learning Algorithm <ins>
 
   This section is relatively brief. Here the target variable is established (Growth_Milestone) and label encoding is used for categorical features.
 
-* Statistical Analysis
+* <ins> Statistical Analysis <ins>
 
   In this section we utilize ANOVA and Chi square methods to get an idea for any statistically significant variables.
 
-* Preprocess the Data
+* <ins> Preprocess the Data <ins>
 
   In this section, categorical variables are encoded using one-hot encoding so that they can be utilized in the machine learning tools we'll be assessing.
 
-* Normalize and Standardize the Data
+* <ins> Normalize and Standardize the Data <ins>
 
   A few transformations that were deemed appropiate/acceptable (if not necessary) are performed on the quantitative data.
     
-  IMPORTANT!!! 
+  <ins> IMPORTANT!!! <ins>
   Note: the transformations used in the initial implementation of this project may not necessarily be appropriate for future/different datasets. The transformations utilized for final information should be assessed according to individual datasets.
 
-* Applying Transformations
+* <ins> Applying Transformations <ins>
 
   This section merely enacts the choices made in the previous section
 
-* Models
+* <ins> Models <ins>
 
   The bulk of the desired (or undesired) results appear in this section.
   In this section we do several important things:
@@ -71,7 +71,7 @@ Finally, below you will find a Table of Contents with brief descriptions highlig
   * perform cross-validation on the top three
   * compare top three models before and after cross-validation
 
-* Summary
+* <ins> Summary <ins>
   
   Some potential takeaways (from the original dataset's results) are highlighted/discussed. 
 
